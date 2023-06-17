@@ -22,8 +22,8 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone &lt;repository-url&gt;</code></pre>
-    <pre><code>cd binance-trading-bot</code></pre>
+    <pre><code>git clone https://github.com/Cxsred/binance-tradingbot.git</code></pre>
+    <pre><code>cd binance-tradingbot</code></pre>
     <li>Install the required dependencies:</li>
     <pre><code>pip install -r requirements.txt</code></pre>
   </ol>
