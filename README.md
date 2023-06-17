@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Binance Trading Bot</title>
+  
 </head>
 <body>
   <h1>Binance Trading Bot</h1>
